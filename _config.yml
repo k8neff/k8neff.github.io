@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: Katelyn Neff
 description: (⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿
-*[About Me](https://k8neff.github.io/About)<br/>
-
-*[Work](https://k8neff.github.io/Work)<br>
-
-*[Art](https://k8neff.github.io/Art)<br/>
+description: *[About Me](https://k8neff.github.io/About)<br/>
+descripton: *[Work](https://k8neff.github.io/Work)<br>
+description: *[Art](https://k8neff.github.io/Art)<br/>
 
