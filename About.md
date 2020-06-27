@@ -1,1 +1,3 @@
-Hi! I'm Katelyn. I am a Environmental Scientist
+Hi! I'm Katelyn. <br/>
+I am a Environmental Sciennce student, studying at Hunter College.<br/>
+My focus is in Ecology and GIS. I'm most interested in understanding the relationship and interconnectedness of the human population and their local ecosystems
