@@ -1,1 +1,1 @@
-Paintings & Drawings 
+Paintings & Drawings by an Untrained Scientist
