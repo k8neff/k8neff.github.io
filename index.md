@@ -5,5 +5,5 @@
 
 [Art](https://k8neff.github.io/Art)<br/>
 
-![DSC_5488](https://user-images.githubusercontent.com/48328053/85914893-c0b07a00-b810-11ea-89a5-27d9697ca7d3.JPG)
+<img width="459" alt="Screen Shot 2021-01-27 at 11 56 56 AM" src="https://user-images.githubusercontent.com/48328053/106025741-09762d00-6097-11eb-94c4-ca002a831976.png">
 
